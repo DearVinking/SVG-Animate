@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M-17.3955 31C-17.3955 29.8954 -16.5001 29 -15.3955 29H26.5746C27.6792 29 28.5746 29.8954 28.5746 31V59.3077C28.5746 60.4123 27.6792 61.3077 26.5746 61.3077H-15.3955C-16.5001 61.3077 -17.3955 60.4123 -17.3955 59.3077V31Z" stroke="#9A9EA1" stroke-width="4"></path>
+		<path d="M-20 66H32" stroke="#9A9EA1" stroke-width="4" stroke-linecap="round"></path>
+		<animate attributeName="opacity" begin="0s" values="0; 1" dur="1s" fill="freeze" calcMode="spline" keySplines="0.42, 0, 0.56, 1"/>
+		<animateTransform attributeName="transform" type="translate" begin="0s" values="0,0;50,0" dur="1s" fill="freeze" calcMode="spline" keySplines="0, 0.44, 0.32, 0.99"/>
+	</g>
+	<path d="M102 44H89C87.8954 44 87 44.8954 87 46V69C87 70.1046 87.8954 71 89 71H102C103.105 71 104 70.1046 104 69V46C104 44.8954 103.105 44 102 44Z" stroke="#9A9EA1" stroke-width="3" stroke-linecap="round" style="fill: #fff;">
+		<animate attributeName="opacity" begin="0s" values="0; 1" dur=".5s" fill="freeze" calcMode="spline" keySplines="0.42, 0, 0.56, 1"/>
+		<animateTransform attributeName="transform" type="translate" begin="0s" values="0,0;-20,0" dur="1s" fill="freeze" calcMode="spline" keySplines="0, 0.44, 0.32, 0.99"/>
+	</path>
+</svg>
