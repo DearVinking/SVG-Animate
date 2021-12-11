@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox='0 0 100 100' xml:space="preserve" width="100" height="100"  fill='none'>
+	<g clip-path='url(#icon-night)'>
+		<path d='M59.0965 88.5525C38.9446 94.9888 17.868 84.689 10.3395 65.4007C9.88098 63.4479 10.9816 61.4259 12.9076 60.8108C14.0141 60.4574 15.1526 60.6355 16.0375 61.2106C16.0671 61.2351 16.0918 61.2046 16.0677 61.122C21.6627 64.3237 28.5325 65.2559 35.2532 63.1094C48.2746 58.9504 55.7203 44.9471 51.8867 31.8263C49.893 25.0026 45.2449 19.8281 39.4179 16.9827C39.4251 16.9691 39.4661 16.956 39.4396 16.9419C38.5264 16.4999 37.7981 15.6942 37.4844 14.6205C36.9113 12.6591 37.9824 10.6128 39.8723 9.87372C60.0687 5.35316 80.3802 17.0598 86.313 37.3657C92.5867 58.838 80.4061 81.7463 59.0965 88.5525Z' fill='transparent' stroke-dasharray='280' stroke-width='5' transform-origin="center" stroke-linecap="round">
+			<animate attributeName='stroke' begin='0s' values='transparent; #9A9EA1' dur='.5s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
+			<animate attributeName='stroke-dashoffset' begin='0s' values='280; 0' dur='1s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
+			<animate attributeName='stroke-width' begin='.5s' values='5; 0' dur='.8s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
+			<animate attributeName='fill' begin='.8s' values='transparent; #9A9EA1' dur='.8s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
+		</path>
+	</g>
+	<defs>
+		<clipPath id='icon-night'>
+			<rect width='100' height='100' fill='white'/>
+		</clipPath>
+	</defs>
+</svg>
