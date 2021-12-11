@@ -2,6 +2,9 @@
 一些 SVG 小动画
 
 ## 演示
+### devices.svg
+![devices](https://user-images.githubusercontent.com/54354339/145686279-c8139fee-83cb-420b-8358-f9ff0b2cf428.gif)
+
 ### error.svg
 ![error](https://user-images.githubusercontent.com/54354339/145680215-25341793-26fd-42e1-a32d-d8011cc58044.gif)
 
