@@ -7,6 +7,6 @@
 	</g>
 	<path d="M102 44H89C87.8954 44 87 44.8954 87 46V69C87 70.1046 87.8954 71 89 71H102C103.105 71 104 70.1046 104 69V46C104 44.8954 103.105 44 102 44Z" stroke="#9A9EA1" stroke-width="3" stroke-linecap="round" style="fill: #fff;">
 		<animate attributeName="opacity" begin="0s" values="0; 1" dur=".5s" fill="freeze" calcMode="spline" keySplines="0.42, 0, 0.56, 1"/>
-		<animateTransform attributeName="transform" type="translate" begin="0s" values="0,0;-30,0" dur="1s" fill="freeze" calcMode="spline" keySplines="0, 0.44, 0.32, 0.99"/>
+		<animateTransform attributeName="transform" type="translate" begin="0s" values="0,0;-25,0" dur="1s" fill="freeze" calcMode="spline" keySplines="0, 0.44, 0.32, 0.99"/>
 	</path>
 </svg>
