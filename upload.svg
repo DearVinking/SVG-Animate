@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox='0 0 100 100' xml:space="preserve" width="100" height="100">
-	 <style>:root{--snackbar_bg: #fff;}</style>
+	 <style>:root{--background: #fff;}</style>
 		<path d='M73.0527 44.3894C70.8689 33.7861 61.5127 25.6771 49.9752 25.6771C40.9274 25.6771 33.1338 30.6702 29.392 38.1558C19.723 39.3985 12.5505 47.197 12.5505 56.8681C12.5505 67.1586 20.9725 75.5805 31.2628 75.5805H71.8032C80.538 75.5805 87.3998 68.7164 87.3998 59.9813C87.3999 51.875 80.851 45.0132 73.0527 44.3894Z' fill='transparent' stroke-dasharray='200' stroke-width='5' transform-origin='center' stroke-linecap='round'>
 			<animate attributeName='stroke' begin='0s' values='transparent; #9A9EA1' dur='.5s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
 			<animate attributeName='stroke-dashoffset' begin='0s' values='200; 0' dur='1s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
 			<animate attributeName='stroke-width' begin='.5s' values='5; 0' dur='.8s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
 			<animate attributeName='fill' begin='.8s' values='transparent; #9A9EA1' dur='.8s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
 		</path>
-		<path d='M62.5747 91.3813L51.7429 79.5618C51.0569 78.8127 49.9429 78.8127 49.2568 79.5618L38.4313 91.3882C37.4558 92.4533 38.2677 94.3155 39.5454 94.3155H44.914V111.117C44.914 112.155 45.6819 113 46.6386 113H54.3675C55.3178 113 56.092 112.162 56.092 111.117V94.3087H61.4733C62.7761 94.3087 63.5188 92.4258 62.5747 91.3813Z' fill='transparent' style='fill: var(--snackbar_bg);'>
+		<path d='M62.5747 91.3813L51.7429 79.5618C51.0569 78.8127 49.9429 78.8127 49.2568 79.5618L38.4313 91.3882C37.4558 92.4533 38.2677 94.3155 39.5454 94.3155H44.914V111.117C44.914 112.155 45.6819 113 46.6386 113H54.3675C55.3178 113 56.092 112.162 56.092 111.117V94.3087H61.4733C62.7761 94.3087 63.5188 92.4258 62.5747 91.3813Z' fill='transparent' style='fill: var(--background);'>
 			<animateTransform attributeName='transform' type='translate' begin='1.2s' values='0,0; 0,-27' dur='.4s' fill='freeze' calcMode='spline' keySplines='0.42, 0, 0.56, 1'/>
 		</path>
 </svg>
