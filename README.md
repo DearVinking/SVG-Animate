@@ -5,6 +5,9 @@
 ### error.svg
 ![error](https://user-images.githubusercontent.com/54354339/145680215-25341793-26fd-42e1-a32d-d8011cc58044.gif)
 
+### info.svg
+![info](https://user-images.githubusercontent.com/54354339/145684598-b88a87fb-75f8-4cc6-b29a-985a3a159563.gif)
+
 ### moon.svg
 ![moon](https://user-images.githubusercontent.com/54354339/145680335-81d10c74-dd1e-49e5-bf71-51ce10757abb.gif)
 
