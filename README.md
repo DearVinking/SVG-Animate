@@ -1,5 +1,5 @@
 # SVG-Animate
-一些 SVG 的小动画
+一些 SVG 小动画
 
 ## 演示
 ### error.svg
